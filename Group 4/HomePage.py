@@ -194,7 +194,7 @@ class HomePage(Tk):
         self.image_references = []  # To store image references and prevent garbage collection
         self.user_email = user_email
         self.user_type = "passenger"
-        self.api_key = "AIzaSyDCZYDh2wDMslhEdFFDQp2ctXqTJ8MehjM"
+        self.api_key = "YOUR_API_KEY"
         self.setup_ui()
 
 
