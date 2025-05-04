@@ -1,0 +1,159 @@
+{
+    "remedies": {
+        "Dry Skin": [
+            {
+                "name": "Honey & Avocado Mask",
+                "ingredients": [
+                    "2 tbsp honey",
+                    "1/2 ripe avocado"
+                ],
+                "instructions": "Mix ingredients into a paste. Apply to face for 15-20 minutes, then rinse with warm water."
+            },
+            {
+                "name": "Olive Oil Massage",
+                "ingredients": [
+                    "1 tbsp olive oil",
+                    "2-3 drops lavender essential oil (optional)"
+                ],
+                "instructions": "Warm oil slightly. Massage into skin using circular motions. Leave for 30 minutes, then rinse."
+            },
+            {
+                "name": "Oatmeal Bath",
+                "ingredients": [
+                    "1 cup colloidal oatmeal",
+                    "1 tbsp honey"
+                ],
+                "instructions": "Add ingredients to warm bath water. Soak for 15-20 minutes. Pat skin dry afterwards."
+            },
+            {
+                "name": "yduhf",
+                "ingredients": [
+                    "ytyyg"
+                ],
+                "instructions": "8uoioh"
+            }
+        ],
+        "Oily Skin": [
+            {
+                "name": "Clay & Tea Tree Mask",
+                "ingredients": [
+                    "1 tbsp bentonite clay",
+                    "1 tbsp apple cider vinegar",
+                    "2 drops tea tree oil"
+                ],
+                "instructions": "Mix ingredients to form a paste. Apply to face, avoiding eye area. Rinse after 10-15 minutes."
+            },
+            {
+                "name": "Lemon & Honey Toner",
+                "ingredients": [
+                    "1 tbsp lemon juice",
+                    "1 tbsp honey",
+                    "1/2 cup water"
+                ],
+                "instructions": "Mix ingredients well. Apply to face with cotton pad after cleansing. Use in evenings only."
+            },
+            {
+                "name": "Tomato & Sugar Scrub",
+                "ingredients": [
+                    "1/2 tomato pulp",
+                    "1 tbsp sugar"
+                ],
+                "instructions": "Mix ingredients together. Gently massage onto face. Rinse after 5 minutes."
+            }
+        ],
+        "Combination Skin": [
+            {
+                "name": "Yogurt & Honey Mask",
+                "ingredients": [
+                    "2 tbsp plain yogurt",
+                    "1 tsp honey",
+                    "1 tsp lemon juice (optional)"
+                ],
+                "instructions": "Mix ingredients well. Apply to face for 15 minutes. Rinse with cool water."
+            },
+            {
+                "name": "Green Tea Toner",
+                "ingredients": [
+                    "1/4 cup brewed green tea (cooled)",
+                    "1/4 cup witch hazel"
+                ],
+                "instructions": "Mix ingredients and store in fridge. Apply with cotton pad morning and night."
+            },
+            {
+                "name": "Aloe & Cucumber Gel",
+                "ingredients": [
+                    "2 tbsp aloe vera gel",
+                    "1/4 cucumber (blended)"
+                ],
+                "instructions": "Blend ingredients until smooth. Apply to face. Can be left on or rinsed after 20 minutes."
+            },
+            {
+                "name": "mumma's nuska",
+                "ingredients": [
+                    "besan,rose water,milk,almond oil,honey"
+                ],
+                "instructions": "add 1 tbsp besan in cup,add raw milk with honey and rose h2o mix it well and apply on clean face.remove after 10 mins with warm water ...."
+            }
+        ],
+        "Hyperpigmentation": [
+            {
+                "name": "Turmeric Brightening Mask",
+                "ingredients": [
+                    "1 tsp turmeric powder",
+                    "1 tbsp yogurt",
+                    "1 tsp honey"
+                ],
+                "instructions": "Mix ingredients to form a paste. Apply to affected areas for 15 minutes. Rinse thoroughly."
+            },
+            {
+                "name": "Licorice Root Extract",
+                "ingredients": [
+                    "1 tsp licorice root extract",
+                    "1 tbsp aloe vera gel"
+                ],
+                "instructions": "Mix ingredients well. Apply to dark spots at night. Use consistently for best results."
+            },
+            {
+                "name": "Vitamin C Serum",
+                "ingredients": [
+                    "1/4 tsp vitamin C powder",
+                    "1 tbsp distilled water",
+                    "1 tsp glycerin"
+                ],
+                "instructions": "Mix ingredients. Apply to face after cleansing. Store in dark bottle in fridge for up to 1 week."
+            }
+        ],
+        "Sensitive Skin": [
+            {
+                "name": "Chamomile Soothing Mask",
+                "ingredients": [
+                    "2 tbsp brewed chamomile tea (cooled)",
+                    "1 tbsp oat flour"
+                ],
+                "instructions": "Mix into a paste. Apply to clean face for 10 minutes. Rinse with cool water."
+            },
+            {
+                "name": "Cucumber Cooling Gel",
+                "ingredients": [
+                    "1/2 cucumber (blended)",
+                    "1 tbsp aloe vera gel"
+                ],
+                "instructions": "Blend ingredients until smooth. Apply to irritated areas as needed. Store in fridge."
+            },
+            {
+                "name": "Oat & Honey Cleanser",
+                "ingredients": [
+                    "2 tbsp ground oats",
+                    "1 tsp honey",
+                    "1 tbsp water"
+                ],
+                "instructions": "Mix ingredients. Gently massage onto damp skin. Rinse with lukewarm water."
+            }
+        ]
+    },
+    "favorites": [
+        "Combination Skin - mumma's nuska",
+        "Oily Skin - Clay & Tea Tree Mask",
+        "Oily Skin - Lemon & Honey Toner"
+    ]
+}
